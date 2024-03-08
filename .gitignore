@@ -5,3 +5,4 @@
 .env
 amsvenv
 logs/app.log 
+/venv   
