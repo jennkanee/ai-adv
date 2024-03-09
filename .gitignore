@@ -5,4 +5,5 @@
 .env
 amsvenv
 logs/app.log 
+logs/token_usage.log
 /venv   
